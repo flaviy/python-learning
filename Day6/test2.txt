@@ -1,0 +1,7 @@
+This is a test file. 
+Some another text.
+ This is a additionsal file. 
+Some another text.
+End of the file.
+This is a test file. 
+Some another text.
